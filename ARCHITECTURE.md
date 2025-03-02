@@ -47,7 +47,7 @@ graph TD
   HospitalSystem[Hospital Management System] -->|Integrates| System
 
 
-%% <!-- graph TD 
+%% graph TD 
 %%   WebApp[Web Application] -->|Uses API| API[API Backend]
 %%   MobileApp[Mobile Application] -->|Uses API| API
 %%   API -->|Reads/Writes| Database[(Database)]
@@ -62,7 +62,7 @@ graph TD
 %%   BookingService -->|Accesses| Database
 %%   ScheduleService -->|Interacts with| AI
 %%   AuthService -->|Interacts with| Database
-%% -->
+%% 
 
   
 
